@@ -1,13 +1,13 @@
-Карты для сервера Trinity-3.3.5 dbc, maps, vmaps, mmaps
-Для активации отредактировать файл worldserver.conf
+dbc, maps, vmaps, mmaps for TrinityCore
+For activation, edit the file worldserver.conf
 
-Указать путь к директории Data
-DataDir = "/home/<USER>/data/" может быть в любом месте как вам угодно
+Specify the path to the  Data
+DataDir = "/home/<USER>/data/"
 
-Активируем ммапсы
+Activate mmap
 mmap.enablePathFinding = 1
 
-Включаем геодату
+Turn on the geodata
 vmap.enableLOS    = 1
 vmap.enableHeight = 1
 vmap.enableIndoorCheck = 1
