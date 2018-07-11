@@ -11,3 +11,5 @@ Turn on the geodata: <br>
 vmap.enableLOS    = 1 <br>
 vmap.enableHeight = 1 <br>
 vmap.enableIndoorCheck = 1 <br>
+<br>
+ Forked from Torrer/TrinityCore-3.3.5-data
